@@ -1,0 +1,25 @@
+{
+  "name": "own-website",
+  "version": "1.0.0",
+  "description": "This is my own website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heinrichschiller/own-website.git"
+  },
+  "author": "Heinrich Schiller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heinrichschiller/own-website/issues"
+  },
+  "homepage": "https://github.com/heinrichschiller/own-website#readme",
+  "dependencies": {
+    "@popperjs/core": "^2.9.2",
+    "bootstrap": "^5.0.2",
+    "bootstrap-icons": "^1.5.0"
+  },
+  "devDependencies": {}
+}
