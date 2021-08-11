@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/heinrichschiller/own-website#readme",
   "dependencies": {
-    "@popperjs/core": "^2.9.2",
+    "@popperjs/core": "^2.9.3",
     "bootstrap": "^5.1.0",
     "bootstrap-icons": "^1.5.0"
   },
