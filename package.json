@@ -18,7 +18,7 @@
   "homepage": "https://github.com/heinrichschiller/own-website#readme",
   "dependencies": {
     "@popperjs/core": "^2.9.2",
-    "bootstrap": "^5.0.2",
+    "bootstrap": "^5.1.0",
     "bootstrap-icons": "^1.5.0"
   },
   "devDependencies": {}
